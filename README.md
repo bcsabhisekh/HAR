@@ -2,7 +2,7 @@
 ![Logo](https://ccirlab.files.wordpress.com/2019/03/har_pic.jpeg)
 
 
-# Human Activity Prediction Using Sensors Data
+# Human Activity Recognition Using Sensors Data
 
 Human activity recognition (HAR) aims to classify a person's actions from a series of measurements captured by sensors.
 Nowadays, collecting this type of data is not an arduous task. With the growth of the Internet of Things, almost everyone has some gadget that monitors their movements. It can be a smartwatch, a pulsometer, or even a smartphone.
